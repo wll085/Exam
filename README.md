@@ -6,6 +6,6 @@ Upload test files to the warehouse.
      https://github.com/wll085/Exam.git  
 ###  2.进行以下操作
   ```bash
-    $ cd JavaTest1
+    $ cd Exam
     $ sh build.sh
   ```
